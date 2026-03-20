@@ -136,7 +136,7 @@ The frontend provides an intuitive 3D Earth view, supporting:
 The backend has integrated the LLM (Ollama) interface, providing AI-based dialogue assistance functions to prepare for future human-computer interaction and automated Agent orchestration.
 
 <div align="center">
-  <img width="60%" alt="image" src="https://github.com/user-attachments/assets/a6d64e1c-d41f-46c6-9122-7a45279a020c" />
+  <img width="60%" alt="image" src="https://github.com/user-attachments/assets/64b33ff2-e211-403c-97a6-e2424436cd0f" />
 </div>
 
 ## **Open Source Repositories**
@@ -144,3 +144,4 @@ SpaceMV-ScAI follows the Apache 2.0 (Backend) and AGPL 3.0 (Frontend) open sourc
 
 * Backend Repository: https://github.com/tianxunweixiao/SpaceMV-ScAI-backend
 * Frontend Repository: https://github.com/tianxunweixiao/SpaceMV-ScAI-frontend
+* Agent Repository：https://github.com/spacemv-lab/SpaceMV-ScAI-Agent
