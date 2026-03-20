@@ -150,7 +150,7 @@ SpaceMV-ScAI通过“云+端”的分布式架构，结合LLM智能体的强大�
 后端已集成Agent系统，支持星座数据实时查询和绘图。用户可额外根据实际需求添加工具。
 
 <div align="center">
-  <img width="60%" alt="image" src="https://github.com/user-attachments/assets/a6d64e1c-d41f-46c6-9122-7a45279a020c" />
+  <img width="60%" alt="image" src="https://github.com/user-attachments/assets/64b33ff2-e211-403c-97a6-e2424436cd0f" />
 </div>
 
 ## **开源地址**
