@@ -154,7 +154,7 @@ SpaceMV-ScAI通过“云+端”的分布式架构，结合LLM智能体的强大�
 </div>
 
 ## **开源地址**
-SpaceMV-ScAI 遵循 Apache 2.0 (后端) 和 AGPL 3.0 (前端) 开源协议，欢迎相关领域的开发者与研究人员关注、使用及贡献代码。
+SpaceMV-ScAI 遵循 Apache 2.0 (后端/Agent模块) 和 AGPL 3.0 (前端) 开源协议，欢迎相关领域的开发者与研究人员关注、使用及贡献代码。
 
 ● 后端仓库 (Backend):https://github.com/spacemv-lab/SpaceMV-ScAI-backend
 
