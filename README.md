@@ -147,7 +147,7 @@ SpaceMV-ScAI通过“云+端”的分布式架构，结合LLM智能体的强大�
 
 ### **智能化扩展**
 
-后端已集成 LLM（Ollama）接口，提供基于 AI 的对话辅助功能，为未来的人机交互与Agent自动编排做准备。
+后端已集成Agent系统，支持星座数据实时查询和绘图。用户可额外根据实际需求添加工具。
 
 <div align="center">
   <img width="60%" alt="image" src="https://github.com/user-attachments/assets/a6d64e1c-d41f-46c6-9122-7a45279a020c" />
@@ -159,3 +159,5 @@ SpaceMV-ScAI 遵循 Apache 2.0 (后端) 和 AGPL 3.0 (前端) 开源协议，欢
 ● 后端仓库 (Backend):https://github.com/spacemv-lab/SpaceMV-ScAI-backend
 
 ● 前端仓库 (Frontend):https://github.com/spacemv-lab/SpaceMV-ScAI-frontend
+
+● 智能体模块 (Agent):https://github.com/spacemv-lab/SpaceMV-ScAI-Agent
